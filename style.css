@@ -1,0 +1,53 @@
+.center {
+  display: block;
+  text-align:center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+hr{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #ccc;
+    margin: 1em 5%;
+    padding: 0;
+
+}
+.container{
+
+}
+main{
+	
+	font-family: 'Be Vietnam Pro';
+	text-transform: uppercase;
+	text-align:center;
+}
+.kaire{
+	text-transform: uppercase;
+	text-align:left;
+}
+.klase{
+	text-align: center;
+    width: 15%;
+    float: left;
+    margin: 0em 5%;
+}
+.kaire3{
+    width: 25%;
+    float: left;
+}
+.announcement{
+	text-align: center;
+}
+.images{
+	vertical-align: middle;
+}
+.imagetext{
+	display:inline-block;
+
+}
+div p{
+	color:  grey;
+
+}
